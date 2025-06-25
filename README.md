@@ -1,4 +1,4 @@
-## Hi! I'm Calazanha, just the IT guy btw
+## Hello! I'm Calazanha, just the IT guy btw
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calazanha&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&hide_border=false&order=2&theme=transparent" height="180" alt="languages graph"  />
