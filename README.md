@@ -28,5 +28,3 @@
 - 🔐 Aprofundando conhecimentos em **infraestrutura, redes seguras** e **administração de sistemas**
 
 ---
-
-🧠 *"O jogo só termina quando"*
