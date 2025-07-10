@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Calazans-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calazansfelipe/)
 
 🎓 Estudante de Sistemas de Informação (7º período) e profissional de TI com foco em **Suporte Técnico**, **Redes** e **Infraestrutura**.  
-👾 Entusiasta de tecnologia e apaixonado por videogames, sou autodidata e estou sempre em busca de aprendizado e evolução, tanto na parte prática quanto no desenvolvimento de sistemas.
+👾 Entusiasta de tecnologia e apaixonado por videogames, sou autodidata e estou sempre em busca de aprendizado e evolução, tanto na parte prática quanto no desenvolvimento de software.
 
 ---
 
