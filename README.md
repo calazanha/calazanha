@@ -86,4 +86,4 @@
 
 ---
 
-🧠 *"As circunstâncias do nascimento de alguém são irrelevantes; é o que você faz com o dom da vida que determina quem você é."*
+🧠 *"Nós fazemos nosso próprio futuro"*
