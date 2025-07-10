@@ -53,7 +53,15 @@
     title="js"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>    
+
+<img 
+    align="left"
+    alt="CSS"
+    title="npm"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg "/>
 
 <img 
     align="left"
@@ -85,5 +93,11 @@
 - 🔐 Aprofundando conhecimentos em **infraestrutura, redes seguras** e **administração de sistemas**
 
 ---
+
+
+<div align="center">  
+  <img  height="150" src="https://github-readme-stats.vercel.app/api?username=calazanha&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
+  <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calazanha&layout=compact&theme=transparent" /> 
+</div>
 
 🧠 *"Nós fazemos nosso próprio futuro"*
