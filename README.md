@@ -10,6 +10,14 @@
 <img
     align="left"
     alt="CSS"
+    title="w11"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+
+<img
+    align="left"
+    alt="CSS"
     title="ubuntu"
     width="30px"
     style="padding-right: 10px;"
